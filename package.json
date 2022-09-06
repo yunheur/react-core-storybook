@@ -1,0 +1,12 @@
+{
+  "name": "react-core-storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy-storybook": "gh-pages -d storybook-static"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
